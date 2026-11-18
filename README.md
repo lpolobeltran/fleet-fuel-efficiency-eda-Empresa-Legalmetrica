@@ -6,7 +6,7 @@
 
 Análisis exploratorio de datos (EDA) sobre una flota de más de 1.000 registros de vehículos de transporte reportados por tres proveedores durante dos meses. El objetivo es entender qué características del vehículo (tecnología Euro, marca y referencia del motor, año, postratamiento) se asocian con un mejor rendimiento de combustible, medido en **kilómetros por galón (Km/Gl)**.
 
-![Resumen del análisis](resumen_analisis.png)
+![Resumen del análisis](images/output9.png)
 
 ## Preguntas que responde
 
@@ -62,3 +62,7 @@ El notebook importa funciones desde `src/utils.py`, así que debe abrirse desde 
 - seaborn y matplotlib
 - openpyxl (lectura de Excel)
 - Jupyter Notebook
+
+## Nota
+
+Análisis desarrollado en 2025. Repositorio reorganizado y anonimizado en 2026 para su publicación.
